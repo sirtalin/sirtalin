@@ -3,7 +3,7 @@
 ## 👾 About Me
 
 - 🎓 Degree in Software Engineering degree at ETSISI.
-- 🎓 Master's degree in Visual Analytics & Big Data at UNIR (I'll read my thesis soon 🤞).
+- 🎓 Master's degree in Visual Analytics & Big Data at UNIR.
 - 🌱 Learning more about Cloud Architecture, Continuous Integration and Artificial Intelligence.
 - ❤️ 5 of my main passions are video games, technology, books, music and my dear Tesla 🐱.
 
