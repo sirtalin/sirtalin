@@ -20,5 +20,4 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael%20P%C3%A9rez%20Rold%C3%A1n-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iperz/)
 [![Instagram](https://img.shields.io/badge/Instagram-inarineo-blue?style=flat-square&logo=instagram)](https://www.instagram.com/inarineo/)
-[![Twitter](https://img.shields.io/badge/Twitter-inarineo-blue?style=flat-square&logo=twitter)](https://twitter.com/inarineo)
 [![Goodreads](https://img.shields.io/badge/Goodreads-sirtalin-blue?style=flat-square&logo=goodreads)](https://www.goodreads.com/user/show/103426185-ismael-p-rez)
